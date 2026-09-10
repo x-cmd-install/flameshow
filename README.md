@@ -12,6 +12,18 @@ A terminal Flamegraph viewer.
 x install flameshow
 ```
 
+## Code insight
+
+Total: **32,099** lines of code across **13** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 31,832 | 0 | 0 | 4 |
+| Python | 166 | 1 | 54 | 6 |
+| Toml | 73 | 0 | 9 | 1 |
+| Nix | 28 | 0 | 3 | 1 |
+| Markdown | 0 | 54 | 27 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/laixintao/flameshow>
@@ -35,20 +47,11 @@ x install flameshow
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 0 | 2 | 0 | 0 | 1 | 7 |
 | 360d | 2025-09-15 | 0 | 2 | 0 | 0 | 1 | 7 |
-
-## Code size
-
-Total: **32,099** lines of code across **13** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 31,832 | 0 | 0 | 4 |
-| Python | 166 | 1 | 54 | 6 |
-| Toml | 73 | 0 | 9 | 1 |
-| Nix | 28 | 0 | 3 | 1 |
-| Markdown | 0 | 54 | 27 | 1 |
+| last720d | 2024-09-20 | 0 | 5 | 0 | 3 | 1 | 24 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for flameshow lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:08:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:56:06Z._
