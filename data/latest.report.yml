@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.2"
   latestRelease: "v1.1.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:45:08Z
+  collectedAt: 2026-09-10T17:08:02Z
 timeline:
   created: 2023-09-24
   lastCommit: 2026-03-30
@@ -84,7 +84,7 @@ total:
   commit: 362
 ---
 path: /home/runner/.x-repo/github.com/laixintao/flameshow
-collectedAt: 2026-09-10T04:45:09Z
+collectedAt: 2026-09-10T17:08:03Z
 loc:
   Json:
     code: 31832
