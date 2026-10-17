@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/laixintao/flameshow/releases/136139202",
-  "assets_url": "https://api.github.com/repos/laixintao/flameshow/releases/136139202/assets",
-  "upload_url": "https://uploads.github.com/repos/laixintao/flameshow/releases/136139202/assets{?name,label}",
-  "html_url": "https://github.com/laixintao/flameshow/releases/tag/v1.1.2",
-  "id": 136139202,
+  "url": "https://api.github.com/repos/laixintao/flameshow/releases/414615120",
+  "assets_url": "https://api.github.com/repos/laixintao/flameshow/releases/414615120/assets",
+  "upload_url": "https://uploads.github.com/repos/laixintao/flameshow/releases/414615120/assets{?name,label}",
+  "html_url": "https://github.com/laixintao/flameshow/releases/tag/v1.1.5",
+  "id": 414615120,
   "author": {
     "login": "laixintao",
     "id": 9675939,
@@ -25,21 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOKXmTos4IHVHC",
-  "tag_name": "v1.1.2",
+  "node_id": "RE_kwDOKXmTos4YtoZQ",
+  "tag_name": "v1.1.5",
   "target_commitish": "main",
-  "name": "v1.1.2",
+  "name": "v1.1.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2024-01-08T07:59:42Z",
-  "updated_at": "2024-01-08T08:00:25Z",
-  "published_at": "2024-01-08T08:00:25Z",
+  "created_at": "2026-10-01T09:37:58Z",
+  "updated_at": "2026-10-16T06:15:21Z",
+  "published_at": "2026-10-16T06:15:21Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/laixintao/flameshow/tarball/v1.1.2",
-  "zipball_url": "https://api.github.com/repos/laixintao/flameshow/zipball/v1.1.2",
-  "body": "## What's Changed (bugfix only)\r\n* Fix invisible square [frame] in stackcollapse frame view by @bobrik in https://github.com/laixintao/flameshow/pull/69\r\n* fix broken test cases and add tests for [frame] bug. by @laixintao in https://github.com/laixintao/flameshow/pull/70\r\n\r\n## New Contributors\r\n* @bobrik made their first contribution in https://github.com/laixintao/flameshow/pull/69\r\n\r\n**Full Changelog**: https://github.com/laixintao/flameshow/compare/v1.1.1...v1.1.2",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/laixintao/flameshow/tarball/v1.1.5",
+  "zipball_url": "https://api.github.com/repos/laixintao/flameshow/zipball/v1.1.5",
+  "body": "## What's Changed\r\n* Create LICENSE (MTI) by @laixintao in https://github.com/laixintao/flameshow/pull/82\r\n* move flamegraph render to a dedicate lib. by @laixintao in https://github.com/laixintao/flameshow/pull/83\r\n* delete unused code. by @laixintao in https://github.com/laixintao/flameshow/pull/84\r\n\r\n\r\n**Full Changelog**: https://github.com/laixintao/flameshow/compare/v1.1.4...v1.1.5",
+  "reactions": {
+    "url": "https://api.github.com/repos/laixintao/flameshow/releases/414615120/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "mentions_count": 1
 }
